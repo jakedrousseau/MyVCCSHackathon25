@@ -1,5 +1,9 @@
+// example of how we could organize the different qualifications/ certifications required by specific jobs
+// NOTE COMMENTS MUST BE REMOVED PRIOR TO USE, JSON IS DATA ONLY
+
 [
   {
+    // this obj consists of 6 characteristics. we could make the job requirements each their own item in order to pull them seperatley, or compare them to education
     "id": "1",
     "title": "Software Engineer",
     "company": "Tech Innovations Inc.",
@@ -25,5 +29,5 @@
     ],
     "postedDate": "2025-04-10"
   }
-  // ... more job listings
+  // ADD MORE HERE
 ]
