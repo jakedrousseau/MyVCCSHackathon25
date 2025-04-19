@@ -1,5 +1,29 @@
-# MyVCCSHackathon25
-Project plan is a STEM roadmap that allows users to browse certain fields of study and match with cetifications and other requirements that may assist in bridging the skill gap between acedemic learning and marketable job skills, as well as organizing them into a way for the user to have a clear picture of what a career field may require. 
-# Resouces
-https://ckeditor.com/ html, css javascript. // trial based, but can find useful free content without signup
-https://cheatsheets.zip/ contains useful command/syntax for variety of languages/frameworks apps// free no signup
+# CKEditor 5 Sample Project
+
+## Setup instructions
+
+### 1. Install dependencies
+
+To get started, install the necessary npm packages:
+
+```sh
+npm install
+```
+
+### 2. Fill the required information
+
+Make sure to fill in the required information, as the editor requires a license to start. If you don't have an account, you can [create a free account](https://portal.ckeditor.com/checkout?plan=free) to access all premium features for a 14-day trial.
+
+### 3. Start the project
+
+Run the following command to start the project:
+
+```sh
+npm run start
+```
+
+And open the project in the browser.
+
+---
+
+For more information, please refer to the official [CKEditor 5 documentation](https://ckeditor.com/docs/ckeditor5/latest/getting-started/index.html).
