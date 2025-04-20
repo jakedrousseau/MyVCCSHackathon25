@@ -265,8 +265,8 @@ https://github.com/jakedrousseau/MyVCCSHackathon25.git
 or-
 1. Clone the repository
 ```bash
-git clone https://github.com/jakedrousseau/MYVCCSHACKATHON25/CareerSkillMapperProduct.zip.git
-unzip CareerSkillMapperProduct.zip
+git clone https://github.com/jakedrousseau/MYVCCSHackathon25.git
+unzip MYVCCSHackathon.zip
 cd CareerSkillMapperProduct
 ```
 
