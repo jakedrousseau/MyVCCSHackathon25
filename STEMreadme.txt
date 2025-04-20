@@ -6,11 +6,8 @@ Node.js installed on your computer (version 14+ recommended)
 Basic knowledge of the command line
 Steps to Self-Host
 1. Download the Project Files
-First, download all the project files from Replit. You can do this by:
-
-Clicking on the three dots (⋮) in the files panel
-Selecting "Download as ZIP"
 Extracting the ZIP file to a folder on your computer
+
 2. Install Dependencies
 Open a terminal or command prompt, navigate to the project folder, and run:
 
