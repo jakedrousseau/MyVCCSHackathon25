@@ -261,7 +261,7 @@ The theme is controlled through CSS variables in the `html/css/styles.css` file.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/jakedrousseau/MYVCCSHACKATHON25/CareerSkillMapperProduct.zip.git
+git clone https://github.com/jakedrousseau/MYVCCSHackathon25.git
 unzip CareerSkillMapperProduct.zip
 cd CareerSkillMapperProduct
 ```
