@@ -258,7 +258,11 @@ The theme is controlled through CSS variables in the `html/css/styles.css` file.
 - npm or yarn
 
 ### Installation
+Download project files from GitHub 
 
+https://github.com/jakedrousseau/MyVCCSHackathon25.git
+
+or-
 1. Clone the repository
 ```bash
 git clone https://github.com/jakedrousseau/MYVCCSHACKATHON25/CareerSkillMapperProduct.zip.git
