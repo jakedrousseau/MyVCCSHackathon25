@@ -1,5 +1,5 @@
 Self-Hosting the STEM Pathways Website Locally
-You can easily host and view this website locally on your own computer. Here's a step-by-step guide:
+host and view this website locally
 
 Prerequisites
 Node.js installed on your computer (version 14+ recommended)
